@@ -1,6 +1,8 @@
 .DS_store
 .ipynb_checkpoints
 .ipynb_checkpoints/* 
- __pycache__/*
- eat_pytorch_datasets
- *.pt
+__pycache__/*
+eat_pytorch_datasets
+*.pt
+
+.idea
