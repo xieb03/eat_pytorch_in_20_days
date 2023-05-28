@@ -6,3 +6,4 @@ eat_pytorch_datasets
 *.pt
 
 .idea
+lightning_logs
