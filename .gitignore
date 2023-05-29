@@ -7,3 +7,4 @@ eat_pytorch_datasets
 
 .idea
 lightning_logs
+events.out.tfevents.*
